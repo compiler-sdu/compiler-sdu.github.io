@@ -12,9 +12,9 @@ The software systems that do this translation are called ***compilers***.
 
 ### Instructor
 
-**Lirong Wang**（王丽蓉）
+Prof. **Lirong Wang**（王丽蓉）
   + Contact：wanglr@sdu.edu.cn
-  + Office：Room 2??, Building N3, Qingdao Campus, SDU
+  + Office：Room 208-2, Building N3, Qingdao Campus, SDU
 
 
 ### Teaching Assistants
@@ -34,11 +34,12 @@ The software systems that do this translation are called ***compilers***.
 | 1 & 2 | Room N406, Zhensheng Garden | [to be annouced] |10:10~12:00 MON. <br> 10:10~12:00 THUR.|
 | 3 & 4 | Room N403, Zhensheng Garden | [to be annouced] |14:00~15:50 MON. <br> 16:00~17:50 TUES.|
 
+
 + Course Duration: Week 1 to 17, Spring 2021.
 
 + Two lectures per week, lab starts from week 8.
 
-+ 68 lecture hours and 16 lab hours in total.
++ 68 lecture hours in total, including 16 lab hours.
 
 ## Textbook and Resources
 
@@ -97,16 +98,6 @@ Note: To ensure the correct delivery of message in this section, this part is wr
 + Lab 4: Code Interpretation and Execution [[Requirement]]()
 
 
-## Discussions and Seminar
-
-+ Discussion and QA Time：[to be annouced]
-+ Discussion and QA Venue：[to be annouced]
-+ Seminar Information：
-	+ Topic: High-level Language and Compiler Design for Visualization
-	+ Speaker: [to be annouced]
-	+ Time & Location: [to be annouced]
-
-
 ## Grading Policy
 
 + **Final Exam**：60%
@@ -121,6 +112,16 @@ Note: To ensure the correct delivery of message in this section, this part is wr
 	+ Research and Study Report
 
 
+## Discussions and Seminar
+
++ Discussion and QA Time：[to be annouced]
++ Discussion and QA Venue：[to be annouced]
++ Seminar Information：
+	+ Topic: High-level Language and Compiler Design for Visualization
+	+ Speaker: [to be annouced]
+	+ Time & Location: [to be annouced]
+
+
 ## Note-sharing Project
 
 注：项目细节待进一步整理发布...
@@ -130,4 +131,5 @@ Note: To ensure the correct delivery of message in this section, this part is wr
 + 人员需求：预计招募x人，文字编辑与作图能力较强者优先，按自愿报名原则，报满为止
 + 项目奖励：优秀笔记贡献者视情况给予奖励加分
 
-![](./pic/Qingdao_gate.jpg)
+
+![](./fig/Qingdao_gate.jpg)
