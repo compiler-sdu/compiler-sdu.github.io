@@ -32,7 +32,7 @@ Prof. **Lirong Wang**（王丽蓉）
 | Class |       Lecture Venue         |    Lab Venue     |   Time  |
 | :---: | :-------------------------: | :--------------: | :-----: |
 | 1 & 2 | Room N406, Zhensheng Garden | [to be announced] |10:10~12:00 MON. <br> 10:10~12:00 THUR.|
-| 3 & 4 | Room N403, Zhensheng Garden | [to be announced] |14:00~15:50 MON. <br> 16:00~17:50 TUES.|
+| 3 & 4 | Room N403, Zhensheng Garden | [to be announced] |14:00~15:50 MON. <br> 16:10~18:00 TUES.|
 
 
 + Course Duration: Week 1 to 17, Spring 2021.
@@ -77,8 +77,8 @@ Prof. **Lirong Wang**（王丽蓉）
 ## Assignments and Lab
 
 | :warning: | WARNING: Plagiarism is definitely unacceptable in this course! All codes submitted will be examined through Stanford MOSS system. There will be severe consequences for those who have plagiarism detected! |
-| --------- | :----------------------------------------------------------- |
-| :memo:    | **ATTENTION**: Do make sure to read the lab requirements before programming! Your code will be judged by the **Auto-Grading System** provided by **GitHub Classroom **, any program that does not conform to the **standard I/O format** will be graded 0. |
+|:-:|:-:|
+| :memo:    | **ATTENTION**: Do make sure to read the lab requirements before programming! Your code will be judged by the **Auto-Grading System** provided by **GitHub Classroom**, any program that does not conform to the **standard I/O format** will be graded 0. |
 
 ### Submission Guidelines
 
