@@ -22,9 +22,9 @@ Prof. **Lirong Wang**（王丽蓉）
 |TA|Responsibility|Contact|
 |:-:|:-:|:-:|
 |**Lu CHEN**（陈路）|Class 1|chenlusdu@mail.sdu.edu.cn|
-|Recruiting...|Class 2||
-|Recruiting...|Class 3||
-|Recruiting...|Class 4||
+|**Jianing Qi**（亓佳宁）|Class 2||
+|**Ruirui Zhang**（张芮睿）|Class 3||
+|**Zhe ZHANG**（张哲）|Class 4||
 
 
 ## Time and Location
@@ -51,9 +51,9 @@ Prof. **Lirong Wang**（王丽蓉）
 
 + Recommended Reading Materials：
 	
-+ **Compilers: Principles, Techniques, & Tools**  (Second Edition)
+	+ **Compilers: Principles, Techniques, & Tools**  (Second Edition)
 	
-	   *Alfred V. Aho, Monica S. Lam, Ravi Sethi, & Jeffrey D. Ullman*. Addison-Wesley
+	  *Alfred V. Aho, Monica S. Lam, Ravi Sethi, & Jeffrey D. Ullman*. Addison-Wesley
 	
 	+ **Modern Compiler Implementation in Java**  (Second Edition)
 	
