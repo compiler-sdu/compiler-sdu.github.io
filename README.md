@@ -1,6 +1,6 @@
-## Course Discription
+## Course Description
 
-*Programming languages* are notations for describing computations to people and to machines. The world as we know it depends on programming languages, because all the software running on all the computers was written in some programming language. But, before a program can be run，it first must be translated into a form in which it can be executed by a computer.
+*Programming languages* are notations for describing computations to people and to machines. The world as we know it depends on programming languages, because all the software running on all the computers was written in some programming language. But, before a program can be run, it first must be translated into a form in which it can be executed by a computer.
 
 The software systems that do this translation are called ***compilers***.
 
@@ -13,8 +13,8 @@ The software systems that do this translation are called ***compilers***.
 ### Instructor
 
 Prof. **Lirong Wang**（王丽蓉）
-  + Contact：wanglr@sdu.edu.cn
-  + Office：Room 208-2, Building N3, Qingdao Campus, SDU
+  + Contact: wanglr@sdu.edu.cn
+  + Office: Room 208-2, Building N3, Qingdao Campus, SDU
 
 
 ### Teaching Assistants
@@ -31,8 +31,8 @@ Prof. **Lirong Wang**（王丽蓉）
 
 | Class |       Lecture Venue         |    Lab Venue     |   Time  |
 | :---: | :-------------------------: | :--------------: | :-----: |
-| 1 & 2 | Room N406, Zhensheng Garden | [to be annouced] |10:10~12:00 MON. <br> 10:10~12:00 THUR.|
-| 3 & 4 | Room N403, Zhensheng Garden | [to be annouced] |14:00~15:50 MON. <br> 16:00~17:50 TUES.|
+| 1 & 2 | Room N406, Zhensheng Garden | [to be announced] |10:10~12:00 MON. <br> 10:10~12:00 THUR.|
+| 3 & 4 | Room N403, Zhensheng Garden | [to be announced] |14:00~15:50 MON. <br> 16:00~17:50 TUES.|
 
 
 + Course Duration: Week 1 to 17, Spring 2021.
@@ -44,12 +44,27 @@ Prof. **Lirong Wang**（王丽蓉）
 ## Textbook and Resources
 
 + Textbook：
-	+ **《程序设计语言编译原理》**（第3版）， *陈火旺 刘春林* 等编著， 国防工业出版社
+
+  + **《程序设计语言编译原理》**（第3版）
+
+     *陈火旺 刘春林* 等编著， 国防工业出版社
 
 + Recommended Reading Materials：
-	+ **《Compilers: Principles, Techniques, & Tools》**  (Second Edition)， *Alfred V. Aho, Monica S. Lam, Ravi Sethi, & Jeffrey D. Ullman*，Pearson Education, Inc.
-
-+ Slids and Tutorials:
+	
++ **Compilers: Principles, Techniques, & Tools**  (Second Edition)
+	
+	   *Alfred V. Aho, Monica S. Lam, Ravi Sethi, & Jeffrey D. Ullman*. Addison-Wesley
+	
+	+ **Modern Compiler Implementation in Java**  (Second Edition)
+	
+	  *Andrew Appel and Jens Palsberg*. Cambridge University Press
+	
++ Recommended Online Courses:
+	
+	+ **Compilers**  Stanford School of Engineering  [[Link]](https://online.stanford.edu/courses/soe-ycscs1-compilers)
+	
++ Slides and Tutorials:
+	
 	+ Chapter1: Introduction to Compilers [[Slides Download]](./pdf/slides/chapter1_intro.pdf)
 	+ Chapter2: High-level Language and Grammar Representation [[Slides Download]](./pdf/slides/chapter2_grammar.pdf)
 	+ Chapter3: Lexical Analysis
@@ -57,47 +72,48 @@ Prof. **Lirong Wang**（王丽蓉）
 	+ Chapter5: Syntax Analysis Bottom-Up Parsing
 	+ Chapter6: Syntax-Directed Translator
 	+ Chapter7: Semantic Analysis and Intermediate Code Generation
+	+ ... ...
 
 ## Assignments and Lab
 
-**Warning: plagiarism is unacceptable in this class. All codes you submitted will be examined by Standford MOSS system. There will be servere consquences for those students who have plagiarism detected.**
+| :warning: | WARNING: Plagiarism is definitely unacceptable in this course! All codes submitted will be examined through Stanford MOSS system. There will be severe consequences for those who have plagiarism detected! |
+| --------- | :----------------------------------------------------------- |
+| :memo:    | **ATTENTION**: Do make sure to read the lab requirements before programming! Your code will be judged by the **Auto-Grading System** provided by **GitHub Classroom **, any program that does not conform to the **standard I/O format** will be graded 0. |
 
 ### Submission Guidelines
 
-Note: To ensure the correct delivery of message, this section is written in Chinese.
++ Assignment Submission:
+  + Please upload the electronic version of your homework in **GitHub Classroom**
+  + Requirements：
+  	+ Complete independently! You may discuss with your classmates, but DO NOT CHEAT!
+  	+ Please upload in PDF format and name your file as "Assignment Number_Student ID_Student Name"
+  	+ Further details will be announced soon...
+  + Delay：
+    + Submissions for all assignments are open all across this semester 
+    + Delay in submission will not affect your final score
 
-+ 作业提交：
-  + 接受纸质版和电子版
-  + 各班学习委员在截止日期前收齐，统一交给（电子版打包发送给）对应班级助教
-  + 要求：
-  	+ 独立完成，不得抄袭
-  	+ 纸质作业请在第一页注明自己的班级、姓名、学号，多页请自行装订
-  	+ 电子版作业请以pdf文件格式提交，文件命名为“作业号_学号_姓名”
-  + 补交：
-  	+ 错过作业截止时间的同学请在完成后直接提交给对应班级助教
-  	+ 期末考试前交全即可，补交不影响平时成绩
-
-+ 实验提交：
++ Lab Submission:
   + GitHub Classroom
-  + Further details will be annouced soon...
+  + Further details will be announced soon...
 
 ### Assignments
 
 | Assignment |           Chapter           |     Due Date     |   PDF Download  |  Answer  |
 | :--------: | :-------------------------: | :--------------: | :-------------: | :------: |
-|1|Introduction to Compilers|[to be annouced]|||
-|2|Context-Free Grammar|[to be annouced]|||
-|3|Lexical Analysis|[to be annouced]|||
+|1|Introduction to Compilers|[to be announced]|||
+|2|Context-Free Grammar|[to be announced]|||
+|3|Lexical Analysis|[to be announced]|||
+|...|...||||
 
 
 ### Labs
 
 + Old version of lab requirements [[PDF Download]](./pdf/labs/lab-old.pdf)
-+ Description of PL-0 Grammer [[PDF Download]]()
-+ Lab 1: Lexical Analyzer [[Requirement]]()
-+ Lab 2: Syntactic Parser [[Requirement]]()
-+ Lab 3: Semantic Analysis and Intermediate Code Generation [[Requirement]]()
-+ Lab 4: Code Interpretation and Execution [[Requirement]]()
++ Description of PL-0 Grammar [[PDF Download]]()
++ Lab 1: Lexical Analyzer [[Requirements]]()
++ Lab 2: Syntactic Parser [[Requirements]]()
++ Lab 3: Semantic Analysis and Intermediate Code Generation [[Requirements]]()
++ Lab 4: Code Interpretation and Execution [[Requirements]]()
 
 
 ## Grading Policy
@@ -116,12 +132,12 @@ Note: To ensure the correct delivery of message, this section is written in Chin
 
 ## Discussions and Seminar
 
-+ Discussion and QA Time：[to be annouced]
-+ Discussion and QA Venue：[to be annouced]
++ Discussion and QA Time：[to be announced]
++ Discussion and QA Venue：[to be announced]
 + Seminar Information：
 	+ Topic: High-level Language and Compiler Design for Visualization
-	+ Speaker: [to be annouced]
-	+ Time & Location: [to be annouced]
+	+ Speaker: [to be announced]
+	+ Time & Location: [to be announced]
 
 
 ## Note-sharing Project
