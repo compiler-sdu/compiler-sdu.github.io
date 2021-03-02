@@ -1,36 +1,39 @@
-## 课程简介
+## Course Discription
 
-编译原理课程的内容概括地说就是讲解“如何处理程序语言”的理论与方法。传统上，将编译原理解释为编译程序构造原理，强调编译程序本身如何编写；事实上，编译原理课程中所包括的原理和方法是通用的，是可以离开编译器而独立存在的，这些原理和方法不仅是构造编译器所必须，对程序语言甚至自然语言进行处理的场合都是可以应用的。
+*Programming languages* are notations for describing computations to people and to machines. The world as we know it depends on programming languages, because all the software running on all the computers was written in some programming language. But, before a program can be run，it first must be translated into a form in which it can be executed by a computer.
 
-本课程主要介绍编译器构造的一般原理和基本实现方法，主要内容包括词法分析、语法分析、语义分析、中间代码生成、代码优化和目标代码生成等，并以PL-0语法编译器作为课程设计要求，带领学生动手实践一个简单的编译器，从而加深对编译器运行过程和原理的理解。
+The software systems that do this translation are called ***compilers***.
 
-
-## 教学人员
-
-### 教师
-
-+ **王丽荣**（主讲）
-  + 办公地点：N3楼214
-  + 邮箱地址：wanglr@sdu.edu.cn
-+ **郑艳伟**（助讲）
-
-### 教学助理
-
-+ 陈路 
-	+ 联系邮箱：chenlusdu@mail.sdu.edu.cn
-	+ 负责班级：计科1班
-+ 亓佳宁
-	+ 联系邮箱：
-	+ 负责班级：计科2班
-+ 招募中...
-	+ 联系邮箱：
-	+ 负责班级：计科3班
-+ 招募中...
-	+ 联系邮箱：
-	+ 负责班级：计科4班
+*This course is about how to design and implement compilers.* We shall discover that a few basic ideas can be used to construct translators for a wide variety of languages and machines. Besides compilers, the principles and techniques for compiler design are applicable to so many other domains that they are likely to be reused many times in the career of a computer scientist. The study of compiler writing touches upon programming languages, machine architecture, language theory, algorithms, and software engineering.
 
 
-## 时间与地点
+
+## Teaching Staff
+
+### Instructor
+
++ **Lirong Wang**（王丽荣）
+  + Contact：wanglr@sdu.edu.cn
+  + Office：Room 214, Building N3, Qingdao Campus, SDU
+
+
+### Teaching Assistants
+
++ Lu CHEN（陈路）
+	+ Contact：chenlusdu@mail.sdu.edu.cn
+	+ Responsibility：Class 1 of CS Major
++ Recruiting...
+	+ Contact：
+	+ Responsibility：Class 2 of CS Major
++ Recruiting...
+	+ Contact：
+	+ Responsibility：Class 3 of CS Major
++ Recruiting...
+	+ Contact：
+	+ Responsibility：Class 4 of CS Major
+
+
+## Time and Location
 
 1~17周上课，每周两节，共xx学时，其中实验课自第x周开始，共占xx学时。
 
@@ -46,24 +49,19 @@
   + 第一节：周一下午14:00~15:50
   + 第二节：周二下午16:00~17:50
 
-## 教材与资料
+## Textbook and Resources
 
-+ 教材：
-	+ **《程序设计语言编译原理》** （第3版）
-		+ 陈火旺 刘春林 等编著
-		+ 国防工业出版社
++ Textbook：
+	+ **《程序设计语言编译原理》**（第3版）， *陈火旺 刘春林* 等编著， 国防工业出版社
++ Recommended Reading Materials：
+	+ **《Compilers: Principles, Techniques, & Tools》**  (Second Edition)， *Alfred V. Aho, Monica S. Lam, Ravi Sethi, & Jeffrey D. Ullman*，Pearson Education, Inc.
++ Slids and Tutorials:
 
-+ 阅读材料：
-	+ **《Compilers: Principles, Techniques, & Tools》**  (Second Edition)  
-		+ Alfred V. Aho, Monica S. Lam, Ravi Sethi, & Jeffrey D. Ullman
-		+ Pearson Education, Inc.
-
-
-## 作业与实验
+## Assignments and Lab
 
 每章学完后布置一次作业，尽可能在规定时间内完成。完整版实验指导书[下载]
 
-### 提交方式
+### Submission Guidelines
 
 + 作业提交：
   + 纸质版：各班学习委员在截止日期前收齐后统一交给对应班级助教
@@ -78,48 +76,51 @@
 + 实验提交：
   + GitHub Classroom
 
-### 作业一
+### Assignments
 
-+ 章节：
++ Assignment 1: Introduction to Compilers (Due Date:) [PDF Download] [Answer]
++ Assignment 2: Introduction to Compilers (Due Date:) [PDF Download] [Answer]
++ Assignment 3: Introduction to Compilers (Due Date:) [PDF Download] [Answer]
++ Assignment 4: Introduction to Compilers (Due Date:) [PDF Download] [Answer]
++ Assignment 5: Introduction to Compilers (Due Date:) [PDF Download] [Answer]
 
-+ 题目：
+### Labs
 
-+ 截止时间：
-
-### 实验一
-
-+ 实验内容：词法分析
-
-+ 实验要求：
++ Description of PL-0 Grammer [PDF Download]
++ Lab 1: Lexical Analyzer [Requirement]
++ Lab 2: Syntactic Parser [Requirement]
++ Lab 3: Semantic Analysis and Intermediate Code Generation [Requirement]
++ Lab 4: Code Interpretation and Execution [Requirement]
 
 
 
-## 讨论与答疑
+## Discussions and Seminar
 
 + 答疑时间：每周x晚x点~x点
-
 + 答疑地点：青岛校区振声苑
++ 讲座信息：
+	+ Topic: High-level Language and Compiler Design for Visualization
+	+ Speaker: [to be annouced]
+	+ Time & Location: [to be annouced]
 
 
-## 考核与评分
+## Grading Policy
 
-+ 期末考试（Final Exam）：70%
++ **Final Exam**：70%
++ **Labs**：20%
+	+ Program Correctiveness
+	+ Additional Features
+	+ Final Report
++ **Assignments**：10%
+	+ Completion and Accuracy
++ **Bonus**：10%
+	+ Note-sharing Project
+	+ Research and Study Report
 
-+ 课程实验（Course Project）：20%
 
-+ 平时作业（Assignments）：10%
-
-+ 奖励加分（Bonus）：10%
-
-
-## 共享笔记
+## Note-sharing Project
 
 + 项目介绍：招募同学在学习过程中整理笔记，供其他同学与学弟学妹参考
 + 工作模式：每个核心知识点由至少2名同学共同整理，内容应包含该知识点总结与例题解析，以文档形式提交并在课程网站公开
 + 人员需求：预计招募x人，文字编辑与作图能力较强者优先，按自愿报名原则，报满为止
 + 项目奖励：优秀笔记贡献者视情况给予奖励加分
-
-
-## 讲座信息
-
-+ Domain-Specfic Language及其编译器设计
