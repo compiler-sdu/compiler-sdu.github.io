@@ -49,8 +49,8 @@ The software systems that do this translation are called ***compilers***.
 	+ **《Compilers: Principles, Techniques, & Tools》**  (Second Edition)， *Alfred V. Aho, Monica S. Lam, Ravi Sethi, & Jeffrey D. Ullman*，Pearson Education, Inc.
 
 + Slids and Tutorials:
-	+ Chapter1: Introduction to Compilers [Slides Download][](./pdf/slides/chapter1_intro.pdf)
-	+ Chapter2: High-level Language and Grammar Representation [Slides Download][](./pdf/slides/chapter2_grammar.pdf)
+	+ Chapter1: Introduction to Compilers [[Slides Download]](./pdf/slides/chapter1_intro.pdf)
+	+ Chapter2: High-level Language and Grammar Representation [[Slides Download]](./pdf/slides/chapter2_grammar.pdf)
 	+ Chapter3: Lexical Analysis
 	+ Chapter4: Syntax Analysis Top-Down Parsing
 	+ Chapter5: Syntax Analysis Bottom-Up Parsing
