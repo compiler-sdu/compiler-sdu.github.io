@@ -53,24 +53,25 @@ The software systems that do this translation are called ***compilers***.
 
 + Textbook：
 	+ **《程序设计语言编译原理》**（第3版）， *陈火旺 刘春林* 等编著， 国防工业出版社
+
 + Recommended Reading Materials：
 	+ **《Compilers: Principles, Techniques, & Tools》**  (Second Edition)， *Alfred V. Aho, Monica S. Lam, Ravi Sethi, & Jeffrey D. Ullman*，Pearson Education, Inc.
-+ Slids and Tutorials:
 
-## Assignments and Lab
++ Slides and Tutorials:
 
-每章学完后布置一次作业，尽可能在规定时间内完成。完整版实验指导书[下载]
+## Assignments and Labs
 
 ### Submission Guidelines
 
 + 作业提交：
-  + 纸质版：各班学习委员在截止日期前收齐后统一交给对应班级助教
-  + 电子版：直接发给对应班级助教
+  + 接受纸质版和电子版
+  + 各班学习委员在截止日期前收齐，统一交给（电子版打包发送给）对应班级助教
   + 要求：
   	+ 独立完成，不得抄袭
   	+ 纸质作业请在第一页注明自己的班级、姓名、学号，多页请自行装订
   	+ 电子版作业请以pdf文件格式提交，文件命名为“作业章节_学号_姓名”
   + 补交：
+  	+ 错过作业截止时间的同学请在完成后直接提交给对应班级助教
   	+ 期末考试前交全即可，补交不影响平时成绩
 
 + 实验提交：
