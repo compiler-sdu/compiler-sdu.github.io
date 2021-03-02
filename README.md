@@ -61,19 +61,22 @@ The software systems that do this translation are called ***compilers***.
 
 ### Submission Guidelines
 
+Note: To ensure the correct delivery of message in this section, this part is written in Chinese.
+
 + 作业提交：
   + 接受纸质版和电子版
   + 各班学习委员在截止日期前收齐，统一交给（电子版打包发送给）对应班级助教
   + 要求：
   	+ 独立完成，不得抄袭
   	+ 纸质作业请在第一页注明自己的班级、姓名、学号，多页请自行装订
-  	+ 电子版作业请以pdf文件格式提交，文件命名为“作业章节_学号_姓名”
+  	+ 电子版作业请以pdf文件格式提交，文件命名为“作业号_学号_姓名”
   + 补交：
   	+ 错过作业截止时间的同学请在完成后直接提交给对应班级助教
   	+ 期末考试前交全即可，补交不影响平时成绩
 
 + 实验提交：
   + GitHub Classroom
+  + Further details will be annouced soon...
 
 ### Assignments
 
@@ -86,11 +89,12 @@ The software systems that do this translation are called ***compilers***.
 
 ### Labs
 
-+ Description of PL-0 Grammer [PDF Download]
-+ Lab 1: Lexical Analyzer [Requirement]
-+ Lab 2: Syntactic Parser [Requirement]
-+ Lab 3: Semantic Analysis and Intermediate Code Generation [Requirement]
-+ Lab 4: Code Interpretation and Execution [Requirement]
++ Old version of lab requirements [[PDF Download]](./pdf/labs/lab-old.pdf)
++ Description of PL-0 Grammer [[PDF Download]]()
++ Lab 1: Lexical Analyzer [[Requirement]]()
++ Lab 2: Syntactic Parser [[Requirement]]()
++ Lab 3: Semantic Analysis and Intermediate Code Generation [[Requirement]]()
++ Lab 4: Code Interpretation and Execution [[Requirement]]()
 
 
 ## Discussions and Seminar
@@ -125,3 +129,5 @@ The software systems that do this translation are called ***compilers***.
 + 工作模式：每个核心知识点由至少2名同学共同整理，内容应包含该知识点总结与例题解析，以文档形式提交并在课程网站公开
 + 人员需求：预计招募x人，文字编辑与作图能力较强者优先，按自愿报名原则，报满为止
 + 项目奖励：优秀笔记贡献者视情况给予奖励加分
+
+![](./pic/Qingdao_gate.jpg)
