@@ -60,7 +60,8 @@ Prof. **Lirong Wang**（王丽蓉）
 
 ## Assignments and Lab
 
-!> Warning: plagiarism is unacceptable in this class. All codes you submitted will be examined by Standford MOSS system. There will be servere consquences for those students who have plagiarism detected.
+Warning: plagiarism is unacceptable in this class. All codes you submitted will be examined by Standford MOSS system. There will be servere consquences for those students who have plagiarism detected.
+{: .alert .alert-danger}
 
 ### Submission Guidelines
 
