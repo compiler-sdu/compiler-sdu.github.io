@@ -12,42 +12,33 @@ The software systems that do this translation are called ***compilers***.
 
 ### Instructor
 
-+ **Lirong Wang**（王丽荣）
+**Lirong Wang**（王丽荣）
   + Contact：wanglr@sdu.edu.cn
   + Office：Room 214, Building N3, Qingdao Campus, SDU
 
 
 ### Teaching Assistants
 
-+ Lu CHEN（陈路）
-	+ Contact：chenlusdu@mail.sdu.edu.cn
-	+ Responsibility：Class 1 of CS Major
-+ Recruiting...
-	+ Contact：
-	+ Responsibility：Class 2 of CS Major
-+ Recruiting...
-	+ Contact：
-	+ Responsibility：Class 3 of CS Major
-+ Recruiting...
-	+ Contact：
-	+ Responsibility：Class 4 of CS Major
+|TA|Responsibility|Contact|
+|:-:|:-:|:-:|
+|**Lu CHEN**（陈路）|Class 1|chenlusdu@mail.sdu.edu.cn|
+|Recruiting...|Class 2||
+|Recruiting...|Class 3||
+|Recruiting...|Class 4||
 
 
 ## Time and Location
 
-1~17周上课，每周两节，共xx学时，其中实验课自第x周开始，共占xx学时。
+| Class |       Lecture Venue         |    Lab Venue     |   Time  |
+| :---: | :-------------------------: | :--------------: | :-----: |
+| 1 & 2 | Room N406, Zhensheng Garden | [to be annouced] |10:10~12:00 MON. <br> 10:10~12:00 THUR.|
+| 3 & 4 | Room N403, Zhensheng Garden | [to be annouced] |14:00~15:50 MON. <br> 16:00~17:50 TUES.|
 
-+ 计科1班、2班
-  + 上课地点：青岛校区振声苑N406
-  + 实验地点：青岛校区N3楼
-  + 第一节：周一上午10:10~12:00
-  + 第二节：周四上午10:10~12:00
++ Course Duration: Week 1 to 17, Spring 2021.
 
-+ 计科3班、4班
-  + 上课地点：青岛校区振声苑N403
-  + 实验地点：青岛校区N3楼
-  + 第一节：周一下午14:00~15:50
-  + 第二节：周二下午16:00~17:50
++ Two lectures per week, lab starts from week 8.
+
++ 68 lecture hours and 16 lab hours in total.
 
 ## Textbook and Resources
 
@@ -57,9 +48,16 @@ The software systems that do this translation are called ***compilers***.
 + Recommended Reading Materials：
 	+ **《Compilers: Principles, Techniques, & Tools》**  (Second Edition)， *Alfred V. Aho, Monica S. Lam, Ravi Sethi, & Jeffrey D. Ullman*，Pearson Education, Inc.
 
-+ Slides and Tutorials:
++ Slids and Tutorials:
+	+ Chapter1: Introduction to Compilers [Slides Download][](./pdf/slides/chapter1_intro.pdf)
+	+ Chapter2: High-level Language and Grammar Representation [Slides Download][](./pdf/slides/chapter2_grammar.pdf)
+	+ Chapter3: Lexical Analysis
+	+ Chapter4: Syntax Analysis Top-Down Parsing
+	+ Chapter5: Syntax Analysis Bottom-Up Parsing
+	+ Chapter6: Syntax-Directed Translator
+	+ Chapter7: Semantic Analysis and Intermediate Code Generation
 
-## Assignments and Labs
+## Assignments and Lab
 
 ### Submission Guidelines
 
@@ -79,11 +77,12 @@ The software systems that do this translation are called ***compilers***.
 
 ### Assignments
 
-+ Assignment 1: Introduction to Compilers (Due Date:) [PDF Download] [Answer]
-+ Assignment 2: Introduction to Compilers (Due Date:) [PDF Download] [Answer]
-+ Assignment 3: Introduction to Compilers (Due Date:) [PDF Download] [Answer]
-+ Assignment 4: Introduction to Compilers (Due Date:) [PDF Download] [Answer]
-+ Assignment 5: Introduction to Compilers (Due Date:) [PDF Download] [Answer]
+| Assignment |           Chapter           |     Due Date     |   PDF Download  |  Answer  |
+| :--------: | :-------------------------: | :--------------: | :-------------: | :------: |
+|1|Introduction to Compilers|[to be annouced]|||
+|2|Context-Free Grammar|[to be annouced]|||
+|3|Lexical Analysis|[to be annouced]|||
+
 
 ### Labs
 
@@ -94,12 +93,11 @@ The software systems that do this translation are called ***compilers***.
 + Lab 4: Code Interpretation and Execution [Requirement]
 
 
-
 ## Discussions and Seminar
 
-+ 答疑时间：每周x晚x点~x点
-+ 答疑地点：青岛校区振声苑
-+ 讲座信息：
++ Discussion and QA Time：[to be annouced]
++ Discussion and QA Venue：[to be annouced]
++ Seminar Information：
 	+ Topic: High-level Language and Compiler Design for Visualization
 	+ Speaker: [to be annouced]
 	+ Time & Location: [to be annouced]
@@ -107,8 +105,8 @@ The software systems that do this translation are called ***compilers***.
 
 ## Grading Policy
 
-+ **Final Exam**：70%
-+ **Labs**：20%
++ **Final Exam**：60%
++ **Labs**：30%
 	+ Program Correctiveness
 	+ Additional Features
 	+ Final Report
@@ -121,7 +119,9 @@ The software systems that do this translation are called ***compilers***.
 
 ## Note-sharing Project
 
-+ 项目介绍：招募同学在学习过程中整理笔记，供其他同学与学弟学妹参考
+注：项目细节待进一步整理发布...
+
++ 项目介绍：招募同学在学习过程中整理笔记，供其他同学及学弟学妹参考
 + 工作模式：每个核心知识点由至少2名同学共同整理，内容应包含该知识点总结与例题解析，以文档形式提交并在课程网站公开
 + 人员需求：预计招募x人，文字编辑与作图能力较强者优先，按自愿报名原则，报满为止
 + 项目奖励：优秀笔记贡献者视情况给予奖励加分
