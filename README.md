@@ -12,9 +12,9 @@ The software systems that do this translation are called ***compilers***.
 
 ### Instructor
 
-**Lirong Wang**（王丽荣）
+**Lirong Wang**（王丽蓉）
   + Contact：wanglr@sdu.edu.cn
-  + Office：Room 214, Building N3, Qingdao Campus, SDU
+  + Office：Room 2??, Building N3, Qingdao Campus, SDU
 
 
 ### Teaching Assistants
