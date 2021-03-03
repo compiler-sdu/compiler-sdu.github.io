@@ -21,10 +21,10 @@ Prof. **Lirong Wang**（王丽蓉）
 
 |TA|Responsibility|Contact|
 |:-:|:-:|:-:|
-|**Lu CHEN**（陈路）|Class 1|chenlusdu@mail.sdu.edu.cn|
-|**Jianing Qi**（亓佳宁）|Class 2||
-|**Ruirui Zhang**（张芮睿）|Class 3||
-|**Zhe ZHANG**（张哲）|Class 4||
+|**Ruirui Zhang**（张芮睿）|Class 1|201800301072@mail.sdu.edu.cn|
+|**Zhe ZHANG**（张哲）|Class 2|201805130147@mail.sdu.edu.cn|
+|**Lu CHEN**（陈路）|Class 3|chenlusdu@mail.sdu.edu.cn|
+|**Jianing Qi**（亓佳宁）|Class 4|1059223346@qq.com|
 
 
 ## Time and Location
@@ -47,7 +47,7 @@ Prof. **Lirong Wang**（王丽蓉）
 
   + **《程序设计语言编译原理》**（第3版）
 
-     *陈火旺 刘春林* 等编著， 国防工业出版社
+     *陈火旺 刘春林* 等编著， 国防工业出版社 [[PDF Download]](./pdf/books/textbook.pdf)
 
 + Recommended Reading Materials：
 	
@@ -62,7 +62,7 @@ Prof. **Lirong Wang**（王丽蓉）
 + Recommended Online Courses:
 	
 	+ **Compilers**  Stanford School of Engineering  [[Link]](https://online.stanford.edu/courses/soe-ycscs1-compilers)
-	
+
 + Slides and Tutorials:
 	
 	+ Chapter1: Introduction to Compilers [[Slides Download]](./pdf/slides/chapter1_intro.pdf)
@@ -121,13 +121,14 @@ Prof. **Lirong Wang**（王丽蓉）
 + **Final Exam**：60%
 + **Labs**：30%
 	+ Program Correctiveness
-	+ Additional Features
+	+ Code style and tidyness
 	+ Final Report
 + **Assignments**：10%
 	+ Completion and Accuracy
 + **Bonus**：10%
 	+ Note-sharing Project
 	+ Research and Study Report
+	+ Additional Features on Lab
 
 
 ## Discussions and Seminar
