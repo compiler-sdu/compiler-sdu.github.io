@@ -78,7 +78,7 @@ Prof. **Lirong Wang**（王丽蓉）
 
 | :warning: | WARNING: Plagiarism is definitely unacceptable in this course! All codes submitted will be examined through Stanford MOSS system. There will be severe consequences for those who have plagiarism detected! |
 |:-:|:-:|
-| :memo:    | **ATTENTION**: Do make sure to read the lab requirements before programming! Your code will be judged by the **Auto-Grading System** provided by **GitHub Classroom**, any program that does not conform to the **standard I/O format** will be graded 0. |
+| :memo:    | **ATTENTION**: Do make sure to read the lab requirements before programming! Your code might be judged by an **Auto-Grading System**. Detailed information will be announced soon. |
 
 ### Submission Guidelines
 
