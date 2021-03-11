@@ -84,7 +84,7 @@ Prof. **Lirong Wang**（王丽蓉）
 
 + Assignment Submission:
   + Please upload the electronic version of your homework to **SDU Cloud**
-    + Class 1 Link: 
+    + Class 1 Link: https://icloud.qd.sdu.edu.cn:7777/link/C69B22D5CACF35FB7D354474E84B1832
     + Class 2 Link: https://icloud.qd.sdu.edu.cn:7777/link/5E550E9732313E9A1BBC1A128B80A7A8
     + Class 3 Link: https://icloud.qd.sdu.edu.cn:7777/link/2557995A2AF1D6816D6C21032E0D4825
     + Class 4 Link: https://icloud.qd.sdu.edu.cn:7777/link/F528DAAEC93BC115E12633C5E50AED21
