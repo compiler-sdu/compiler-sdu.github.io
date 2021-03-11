@@ -78,23 +78,27 @@ Prof. **Lirong Wang**（王丽蓉）
 
 | :warning: | WARNING: Plagiarism is definitely unacceptable in this course! All codes submitted will be examined through Stanford MOSS system. There will be severe consequences for those who have plagiarism detected! |
 |:-:|:-:|
-| :memo:    | **ATTENTION**: Do make sure to read the lab requirements before programming! Your code might be judged by an **Auto-Grading System**. Detailed information will be announced soon. |
+| :memo:    | **ATTENTION**: Do make sure to read the lab requirements before programming since your code will be judged by an **Auto-Grading System**. Detailed information will be announced soon. |
 
 ### Submission Guidelines
 
 + Assignment Submission:
-  + Please upload the electronic version of your homework in **GitHub Classroom**
+  + Please upload the electronic version of your homework to **SDU Cloud**
+    + Class 1 Link: 
+    + Class 2 Link: 
+    + Class 3 Link: https://icloud.qd.sdu.edu.cn:7777/link/2557995A2AF1D6816D6C21032E0D4825
+    + Class 4 Link: https://icloud.qd.sdu.edu.cn:7777/link/F528DAAEC93BC115E12633C5E50AED21
   + Requirements：
   	+ Complete independently! You may discuss with your classmates, but DO NOT CHEAT!
   	+ Please upload in PDF format and name your file as "Assignment Number_Student ID_Student Name"
-  	+ Further details will be announced soon...
+	+ Further details will be announced soon...
   + Delay：
     + Submissions for all assignments are open all across this semester 
     + Delay in submission will not affect your final score
-
+  
 + Lab Submission:
-  + GitHub Classroom
-  + Further details will be announced soon...
+  + **SDU OJ** for judging code correctness 
+  + **GitHub Classroom** for submitting final project
 
 ### Assignments
 
@@ -109,20 +113,26 @@ Prof. **Lirong Wang**（王丽蓉）
 ### Labs
 
 + Old version of lab requirements [[PDF Download]](./pdf/labs/lab-old.pdf)
-+ Description of PL-0 Grammar [[PDF Download]]()
-+ Lab 1: Lexical Analyzer [[Requirements]]()
-+ Lab 2: Syntactic Parser [[Requirements]]()
-+ Lab 3: Semantic Analysis and Intermediate Code Generation [[Requirements]]()
-+ Lab 4: Code Interpretation and Execution [[Requirements]]()
++ Description of PL-0 Grammar
+
+|  Lab  |              Content              | Suggested Time |   Requirements    |
+| :---: | :-------------------------------: | :------------: | :---------------: |
+| Lab 1 |         Lexical Analyzer          |    2 hours     | [to be announced] |
+| Lab 2 |         Syntactic Parser          |    4 hours     |                   |
+| Lab 3 |   Intermediate Code Generation    |    6 hours     |                   |
+| Lab 4 | Code Interpretation and Execution |    2 hours     |                   |
+| Lab 5 |            Integration            |    2 hours     |                   |
+
+
 
 
 ## Grading Policy
 
 + **Final Exam**：60%
 + **Labs**：30%
-	+ Program Correctiveness
-	+ Code style and tidyness
-	+ Final Report
+	+ Program Correctness (70%)
+	+ Code style and tidiness (20%)
+	+ Final Report (10%)
 + **Assignments**：10%
 	+ Completion and Accuracy
 + **Bonus**：10%
@@ -147,7 +157,11 @@ Prof. **Lirong Wang**（王丽蓉）
 
 + 项目介绍：招募同学在学习过程中整理笔记，供其他同学及学弟学妹参考
 + 工作模式：每个核心知识点由至少2名同学共同整理，内容应包含该知识点总结与例题解析，以文档形式提交并在课程网站公开
-+ 人员需求：预计招募x人，文字编辑与作图能力较强者优先，按自愿报名原则，报满为止
++ 人员需求：预计招募**24**人，文字编辑与作图能力较强者优先，按**自愿报名**原则，**报满为止**
++ 报名方式：
+  + 自*2021年3月11日（周四）*起开始接受报名
+  + 为保证班级间公平，在*3月14日（周日）晚24点* 前，每班限报6人，有意参与者请联系本班助教
+  + 3月15日公布剩余名额，剩余名额将不再按班级平均分配，可接受来自任意班级同学报名
 + 项目奖励：优秀笔记贡献者视情况给予奖励加分
 
 
