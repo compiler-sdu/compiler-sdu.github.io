@@ -21,7 +21,7 @@ Prof. **Lirong Wang**（王丽蓉）
 
 |TA|Responsibility|Contact|
 |:-:|:-:|:-:|
-|**Ruirui Zhang**（张芮睿）|Class 1|@mail.sdu.edu.cn|
+|**Ruirui Zhang**（张芮睿）|Class 1|sherryzys@mail.sdu.edu.cn|
 |**Zhe ZHANG**（张哲）|Class 2|201805130147@mail.sdu.edu.cn|
 |**Lu CHEN**（陈路）|Class 3|chenlusdu@mail.sdu.edu.cn|
 |**Jianing Qi**（亓佳宁）|Class 4|1059223346@qq.com|
