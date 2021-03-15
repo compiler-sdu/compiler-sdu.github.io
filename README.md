@@ -69,7 +69,7 @@ Prof. **Lirong Wang**（王丽蓉）
 	+ Chapter2: High-level Language and Grammar Representation [[Slides Download]](./pdf/slides/chapter2_grammar.pdf)
 	+ Chapter3: Lexical Analysis [[Slides Download]](./pdf/slides/chapter3_lexical.pdf)
 	+ Chapter4: Syntax Analysis Top-Down Parsing [[Slides Download]](./pdf/slides/chapter4_syntax_top_down.pdf)
-	+ Chapter5: Syntax Analysis Bottom-Up Parsing
+	+ Chapter5: Syntax Analysis Bottom-Up Parsing[[Slides Download]](./pdf/slides/chapter5_syntax_bottom_up.pdf)
 	+ Chapter6: Syntax-Directed Translator
 	+ Chapter7: Semantic Analysis and Intermediate Code Generation
 	+ ... ...
