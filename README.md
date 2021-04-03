@@ -119,13 +119,13 @@ Prof. **Lirong Wang**（王丽蓉）
 + Old version of lab requirements [[PDF Download]](./pdf/labs/lab-old.pdf)
 + Description of PL-0 Grammar
 
-|  Lab  |              Content              | Suggested Time |   Requirements    |
-| :---: | :-------------------------------: | :------------: | :---------------: |
-| Lab 1 |         Lexical Analyzer          |    2 hours     | [to be announced] |
-| Lab 2 |         Syntactic Parser          |    4 hours     |                   |
-| Lab 3 |   Intermediate Code Generation    |    6 hours     |                   |
-| Lab 4 | Code Interpretation and Execution |    2 hours     |                   |
-| Lab 5 |            Integration            |    2 hours     |                   |
+|  Lab  |              Content              | Suggested Time |             Requirements              |
+| :---: | :-------------------------------: | :------------: | :-----------------------------------: |
+| Lab 1 |         Lexical Analyzer          |    2 hours     | \[[PDF](./pdf/labs/lab-lexical.pdf)\] |
+| Lab 2 |         Syntactic Parser          |    4 hours     |                                       |
+| Lab 3 |   Intermediate Code Generation    |    6 hours     |                                       |
+| Lab 4 | Code Interpretation and Execution |    2 hours     |                                       |
+| Lab 5 |            Integration            |    2 hours     |                                       |
 
 
 
