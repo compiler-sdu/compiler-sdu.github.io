@@ -101,7 +101,7 @@ Prof. **Lirong Wang**（王丽蓉）
   + **GitHub Classroom** for submitting final project
     + Class 1 GitHub Classroom Link:
     + Class 2 GitHub Classroom Link: https://classroom.github.com/a/w7xHvBC1
-    + Class 3 GitHub Classroom Link:
+    + Class 3 GitHub Classroom Link: https://classroom.github.com/a/bIq-EZN0
     + Class 4 GitHub Classroom Link:
 
 ### Assignments
@@ -119,13 +119,12 @@ Prof. **Lirong Wang**（王丽蓉）
 + Old version of lab requirements [[PDF Download]](./pdf/labs/lab-old.pdf)
 + Description of PL-0 Grammar
 
-|  Lab  |              Content              | Suggested Time |             Requirements              |
-| :---: | :-------------------------------: | :------------: | :-----------------------------------: |
-| Lab 1 |         Lexical Analyzer          |    2 hours     | \[[PDF](./pdf/labs/lab-lexical.pdf)\] |
-| Lab 2 |         Syntactic Parser          |    4 hours     |                                       |
-| Lab 3 |   Intermediate Code Generation    |    6 hours     |                                       |
-| Lab 4 | Code Interpretation and Execution |    2 hours     |                                       |
-| Lab 5 |            Integration            |    2 hours     |                                       |
+|  Lab  |           Content            | Suggested Time |              Requirements              |
+| :---: | :--------------------------: | :------------: | :------------------------------------: |
+| Lab 1 |       Lexical Analyzer       |    2 hours     | \[[PDF](./pdf/labs/lab-lexical.pdf)\]  |
+| Lab 2 |       Syntactic Parser       |    4 hours     |  \[[PDF](./pdf/labs/lab-syntax.pdf)\]  |
+| Lab 3 |         PL0 Compiler         |    6 hours     | \[[PDF](./pdf/labs/PL0-compiler.pdf)\] |
+| Lab 4 | Integration & Report Writing |    4 hours     | \[[PDF](./pdf/labs/PL0-compiler.pdf)\] |
 
 
 
@@ -148,16 +147,13 @@ Prof. **Lirong Wang**（王丽蓉）
 ## Discussions and Seminar
 
 + Discussion and QA Time：[to be announced]
-+ Discussion and QA Venue：[to be announced]
-+ Seminar Information：
-	+ Topic: High-level Language and Compiler Design for Visualization
-	+ Speaker: [to be announced]
-	+ Time & Location: [to be announced]
++ Discussion and QA Venue：N3 Building, Shandong University Qingdao Campus
++ Seminar Information：[to be announced]
 
 
 ## Note-sharing Project
 
-注：项目细节待进一步整理发布...
+🎉🎉第一版笔记（初稿）下载 \[[PDF](./pdf/books/notes_first_edition.pdf)\]
 
 + 项目介绍：招募同学在学习过程中整理笔记，供其他同学及学弟学妹参考
 + 工作模式：每个核心知识点由至少2名同学共同整理，内容应包含该知识点总结与例题解析，以文档形式提交并在课程网站公开
@@ -167,6 +163,19 @@ Prof. **Lirong Wang**（王丽蓉）
   + 为保证班级间公平，在*3月14日（周日）晚24点* 前，每班限报6人，有意参与者请联系本班助教
   + 3月15日公布剩余名额，剩余名额将不再按班级平均分配，可接受来自任意班级同学报名
 + 项目奖励：优秀笔记贡献者视情况给予奖励加分
++ 第一版笔记内容与编者：
+
+|  章节  |            知识点            |         编写人员         |
+| :----: | :--------------------------: | :----------------------: |
+| 第3章  | 正则表达式转NFA转DFA及最小化 | 陈晓曦，米有麦彦，徐宏涛 |
+| 第4章  |          LL(1)文法           |  朱可欣，薛宇涵，尹永琪  |
+| 第5章  |  自下而上基本问题+算符优先   |   杜雅莉，徐容，孙书镇   |
+| 第5章  |            LR文法            |  刘千一，黑乃磊，李博远  |
+| 第6章  |      属性文法+语法制导       |        张倩，来苑        |
+| 第7章  |         中间代码生成         |      牛庆莹，赵子涵      |
+| 第9章  |      运行时存储空间组织      |      王新宇，尹浩飞      |
+| 第10章 |             优化             |   张雨，王晨旭，赵雨晗   |
+| 第11章 |         目标代码生成         |      王志睿，施博凡      |
 
 
 ![](./fig/Qingdao_gate.jpg)
