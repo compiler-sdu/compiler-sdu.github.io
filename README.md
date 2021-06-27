@@ -99,7 +99,7 @@ Prof. **Lirong Wang**（王丽蓉）
 + Lab Submission:
   + **SDU OJ** for judging code correctness 
   + **GitHub Classroom** for submitting final project
-    + Class 1 GitHub Classroom Link:
+    + Class 1 GitHub Classroom Link: https://classroom.github.com/a/3tf61T5v
     + Class 2 GitHub Classroom Link: https://classroom.github.com/a/w7xHvBC1
     + Class 3 GitHub Classroom Link: https://classroom.github.com/a/bIq-EZN0
     + Class 4 GitHub Classroom Link:
