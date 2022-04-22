@@ -7,26 +7,30 @@ The software systems that do this translation are called ***compilers***.
 *This course is about how to design and implement compilers.* We shall discover that a few basic ideas can be used to construct translators for a wide variety of languages and machines. Besides compilers, the principles and techniques for compiler design are applicable to so many other domains that they are likely to be reused many times in the career of a computer scientist. The study of compiler writing touches upon programming languages, machine architecture, language theory, algorithms, and software engineering.
 
 
-
+<!--
 ## Teaching Staff
-
 ### Instructor
 
-<!--Prof. **Lirong Wang**（王丽蓉）
+Prof. **Lirong Wang**（王丽蓉）
   + Contact: wanglr@sdu.edu.cn
   + Office: Room 208-2, Building N3, Qingdao Campus, SDU
 -->
+
+## Teaching Staff
+### Instructor
+
+Prof. **Zhongxing Yu**（余仲星）
+
 
 ### Teaching Assistants
 
 |TA|Responsibility|Contact|
 |:-:|:-:|:-:|
-|**Ruirui Zhang**（张芮睿）|Class 1|sherryzys@mail.sdu.edu.cn|
-|**Zhe ZHANG**（张哲）|Class 2|201805130147@mail.sdu.edu.cn|
-|**Lu CHEN**（陈路）|Class 3|chenlusdu@mail.sdu.edu.cn|
-|**Jianing Qi**（亓佳宁）|Class 4|1059223346@qq.com|
+|**Yejian Liang**（梁叶剑）|129(131)|
+|**Lantian Li**（李蓝天）|137(139)|
+|**Yali Du**（杜雅莉）|133(135)|
 
-
+<!--
 ## Time and Location
 
 | Class |       Lecture Venue         |    Lab Venue     |   Time  |
@@ -40,7 +44,7 @@ The software systems that do this translation are called ***compilers***.
 + Two lectures per week, lab starts from week 8.
 
 + 68 lecture hours in total, including 16 lab hours.
-
+-->
 ## Textbook and Resources
 
 + Textbook：
@@ -63,6 +67,7 @@ The software systems that do this translation are called ***compilers***.
 	
 	+ **Compilers**  Stanford School of Engineering  [[Link]](https://online.stanford.edu/courses/soe-ycscs1-compilers)
 
+<!--
 + Slides and Tutorials:
 	
 	+ Chapter1: Introduction to Compilers [[Slides Download]](./pdf/slides/chapter1_intro.pdf)
@@ -73,13 +78,14 @@ The software systems that do this translation are called ***compilers***.
 	+ Chapter6: Syntax-Directed Translator
 	+ Chapter7: Semantic Analysis and Intermediate Code Generation
 	+ ... ...
-
+-->
 ## Assignments and Lab
 
 | :warning: | WARNING: Plagiarism is definitely unacceptable in this course! All codes submitted will be examined through Stanford MOSS system. There will be severe consequences for those who have plagiarism detected! |
 |:-:|:-:|
 | :memo:    | **ATTENTION**: Do make sure to read the lab requirements before programming since your code will be judged by an **Auto-Grading System**. Detailed information will be announced soon. |
 
+<!--
 ### Submission Guidelines
 
 + Assignment Submission:
@@ -95,7 +101,7 @@ The software systems that do this translation are called ***compilers***.
   + Delay：
     + Submissions for all assignments are open all across this semester 
     + Delay in submission will not affect your final score
-  
+
 + Lab Submission:
   + **SDU OJ** for judging code correctness 
   + **GitHub Classroom** for submitting final project
@@ -112,22 +118,23 @@ The software systems that do this translation are called ***compilers***.
 |2|Context-Free Grammar|[to be announced]|||
 |3|Lexical Analysis|[to be announced]|||
 |...|...||||
-
+-->
 
 ### Labs
 
 + Old version of lab requirements [[PDF Download]](./pdf/labs/lab-old.pdf)
 + Description of PL-0 Grammar
 
-|  Lab  |           Content            | Suggested Time |              Requirements              |
-| :---: | :--------------------------: | :------------: | :------------------------------------: |
-| Lab 1 |       Lexical Analyzer       |    2 hours     | \[[PDF](./pdf/labs/lab-lexical.pdf)\]  |
-| Lab 2 |       Syntactic Parser       |    4 hours     |  \[[PDF](./pdf/labs/lab-syntax.pdf)\]  |
-| Lab 3 |         PL0 Compiler         |    6 hours     | \[[PDF](./pdf/labs/PL0-compiler.pdf)\] |
-| Lab 4 | Integration & Report Writing |    4 hours     | \[[PDF](./pdf/labs/PL0-compiler.pdf)\] |
+|  Lab  |           Content            | Suggested Time |              Requirements              |   Percentage   |
+| :---: | :--------------------------: | :------------: | :------------------------------------: | :------------: |
+| Lab 1 |       Lexical Analyzer       |    2 hours     | \[[PDF](./pdf/labs/lab-lexical.pdf)\]  |       40%      | 
+| Lab 2 |       Syntactic Parser       |    4 hours     |  \[[PDF](./pdf/labs/lab-syntax.pdf)\]  |       40%      |
+| Lab 3 |         PL0 Compiler         |    6 hours     | \[[PDF](./pdf/labs/PL0-compiler.pdf)\] |       20%      |
+<!--| Lab 4 | Integration & Report Writing |    4 hours     | \[[PDF](./pdf/labs/PL0-compiler.pdf)\] |-->
++ **通过OJ的不需要人工验收，无法通过OJ的可以最终采取人工验收，但是会酌情扣分。实验得分与提交先后顺序无关，截止日期前完成即可。**
 
 
-
+<!-- 
 
 ## Grading Policy
 
@@ -149,13 +156,16 @@ The software systems that do this translation are called ***compilers***.
 + Discussion and QA Time：[to be announced]
 + Discussion and QA Venue：N3 Building, Shandong University Qingdao Campus
 + Seminar Information：[to be announced]
-
+-->
 
 ## Note-sharing Project
 
-🎉🎉第一版笔记（初稿）下载 \[[PDF](./pdf/books/notes_first_edition.pdf)\]
+项目介绍：往届同学在学习过程中整理的笔记，供学弟学妹参考，欢迎补充和指正！
 
+🎉🎉第一版笔记（初稿）下载 \[[PDF](./pdf/books/notes_first_edition.pdf)\]
+<!-- 
 + 项目介绍：招募同学在学习过程中整理笔记，供其他同学及学弟学妹参考
+
 + 工作模式：每个核心知识点由至少2名同学共同整理，内容应包含该知识点总结与例题解析，以文档形式提交并在课程网站公开
 + 人员需求：预计招募**24**人，文字编辑与作图能力较强者优先，按**自愿报名**原则，**报满为止**
 + 报名方式：
@@ -163,6 +173,7 @@ The software systems that do this translation are called ***compilers***.
   + 为保证班级间公平，在*3月14日（周日）晚24点* 前，每班限报6人，有意参与者请联系本班助教
   + 3月15日公布剩余名额，剩余名额将不再按班级平均分配，可接受来自任意班级同学报名
 + 项目奖励：优秀笔记贡献者视情况给予奖励加分
+
 + 第一版笔记内容与编者：
 
 |  章节  |            知识点            |         编写人员         |
@@ -177,5 +188,5 @@ The software systems that do this translation are called ***compilers***.
 | 第10章 |             优化             |   张雨，王晨旭，赵雨晗   |
 | 第11章 |         目标代码生成         |      王志睿，施博凡      |
 
-
+-->
 ![](./fig/Qingdao_gate.jpg)
