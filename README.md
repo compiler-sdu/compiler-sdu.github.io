@@ -13,8 +13,8 @@ The software systems that do this translation are called ***compilers***.
 ### Instructor
 
 Prof. **Lirong Wang**（王丽蓉）
-  + Contact: wanglr@sdu.edu.cn
-  + Office: Room 208-2, Building N3, Qingdao Campus, SDU
+；  + Contact: wanglr@sdu.edu.cn
+；  + Office: Room 208-2, Building N3, Qingdao Campus, SDU
 
 
 ### Teaching Assistants
