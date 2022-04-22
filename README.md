@@ -131,34 +131,8 @@ Prof. **Zhongxing Yu**（余仲星）
 | Lab 2 |       Syntactic Parser       |    4 hours     |  \[[PDF](./pdf/labs/lab-syntax.pdf)\]  |       40%      |
 | Lab 3 |         PL0 Compiler         |    6 hours     | \[[PDF](./pdf/labs/PL0-compiler.pdf)\] |       20%      |
 
-<!--| Lab 4 | Integration & Report Writing |    4 hours     | \[[PDF](./pdf/labs/PL0-compiler.pdf)\] |-->
-
 + **通过OJ的不需要人工验收，无法通过OJ的可以最终采取人工验收，但是会酌情扣分。实验得分与提交先后顺序无关，截止日期前完成即可。**
 
-
-<!-- 
-
-## Grading Policy
-
-+ **Final Exam**：60%
-+ **Labs**：30%
-	+ Program Correctness (70%)
-	+ Code style and tidiness (20%)
-	+ Final Report (10%)
-+ **Assignments**：10%
-	+ Completion and Accuracy
-+ **Bonus**：10%
-	+ Note-sharing Project
-	+ Research and Study Report
-	+ Additional Features on Lab
-
-
-## Discussions and Seminar
-
-+ Discussion and QA Time：[to be announced]
-+ Discussion and QA Venue：N3 Building, Shandong University Qingdao Campus
-+ Seminar Information：[to be announced]
--->
 
 ## Note-sharing Project
 
@@ -166,30 +140,5 @@ Prof. **Zhongxing Yu**（余仲星）
 
 🎉🎉第一版笔记（初稿）下载 \[[PDF](./pdf/books/notes_first_edition.pdf)\]
 
-<!-- 
-+ 项目介绍：招募同学在学习过程中整理笔记，供其他同学及学弟学妹参考
-
-+ 工作模式：每个核心知识点由至少2名同学共同整理，内容应包含该知识点总结与例题解析，以文档形式提交并在课程网站公开
-+ 人员需求：预计招募**24**人，文字编辑与作图能力较强者优先，按**自愿报名**原则，**报满为止**
-+ 报名方式：
-  + 自*2021年3月11日（周四）*起开始接受报名
-  + 为保证班级间公平，在*3月14日（周日）晚24点* 前，每班限报6人，有意参与者请联系本班助教
-  + 3月15日公布剩余名额，剩余名额将不再按班级平均分配，可接受来自任意班级同学报名
-+ 项目奖励：优秀笔记贡献者视情况给予奖励加分
-
-+ 第一版笔记内容与编者：
-
-|  章节  |            知识点            |         编写人员         |
-| :----: | :--------------------------: | :----------------------: |
-| 第3章  | 正则表达式转NFA转DFA及最小化 | 陈晓曦，米有麦彦，徐宏涛 |
-| 第4章  |          LL(1)文法           |  朱可欣，薛宇涵，尹永琪  |
-| 第5章  |  自下而上基本问题+算符优先   |   杜雅莉，徐容，孙书镇   |
-| 第5章  |            LR文法            |  刘千一，黑乃磊，李博远  |
-| 第6章  |      属性文法+语法制导       |        张倩，来苑        |
-| 第7章  |         中间代码生成         |      牛庆莹，赵子涵      |
-| 第9章  |      运行时存储空间组织      |      王新宇，尹浩飞      |
-| 第10章 |             优化             |   张雨，王晨旭，赵雨晗   |
-| 第11章 |         目标代码生成         |      王志睿，施博凡      |
--->
 
 ![](./fig/Qingdao_gate.jpg)
