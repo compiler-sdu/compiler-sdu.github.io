@@ -30,21 +30,8 @@ Prof. **Zhongxing Yu**（余仲星）
 |**Lantian Li**（李蓝天）|137(139)|
 |**Yali Du**（杜雅莉）|133(135)|
 
-<!--
-## Time and Location
-
-| Class |       Lecture Venue         |    Lab Venue     |   Time  |
-| :---: | :-------------------------: | :--------------: | :-----: |
-| 1 & 2 | Room N406, Zhensheng Garden | [to be announced] |10:10~12:00 MON. <br> 10:10~12:00 THUR.|
-| 3 & 4 | Room N403, Zhensheng Garden | [to be announced] |14:00~15:50 MON. <br> 16:10~18:00 TUES.|
 
 
-+ Course Duration: Week 1 to 17, Spring 2021.
-
-+ Two lectures per week, lab starts from week 8.
-
-+ 68 lecture hours in total, including 16 lab hours.
--->
 ## Textbook and Resources
 
 + Textbook：
