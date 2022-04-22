@@ -24,8 +24,8 @@ Prof. **Zhongxing Yu**（余仲星）
 
 ### Teaching Assistants
 
-|TA|Responsibility|Contact|
-|:-:|:-:|:-:|
+|TA|Responsibility|
+|:-:|:-:|
 |**Yejian Liang**（梁叶剑）|129(131)|
 |**Lantian Li**（李蓝天）|137(139)|
 |**Yali Du**（杜雅莉）|133(135)|
