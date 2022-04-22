@@ -130,7 +130,9 @@ Prof. **Zhongxing Yu**（余仲星）
 | Lab 1 |       Lexical Analyzer       |    2 hours     | \[[PDF](./pdf/labs/lab-lexical.pdf)\]  |       40%      | 
 | Lab 2 |       Syntactic Parser       |    4 hours     |  \[[PDF](./pdf/labs/lab-syntax.pdf)\]  |       40%      |
 | Lab 3 |         PL0 Compiler         |    6 hours     | \[[PDF](./pdf/labs/PL0-compiler.pdf)\] |       20%      |
+
 <!--| Lab 4 | Integration & Report Writing |    4 hours     | \[[PDF](./pdf/labs/PL0-compiler.pdf)\] |-->
+
 + **通过OJ的不需要人工验收，无法通过OJ的可以最终采取人工验收，但是会酌情扣分。实验得分与提交先后顺序无关，截止日期前完成即可。**
 
 
